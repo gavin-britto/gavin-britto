@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gavin-britto
+- 👋 Hi, I’m @gpbritto
 - 👀 I’m interested in parametric modeling and blockchain
 - 🌱 I’m currently learning python, grasshopper and smart contracts
 - 💞️ I’m looking to collaborate on the above
