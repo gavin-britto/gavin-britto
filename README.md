@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @zen_gorilla
-- 👀 I’m interested in parametric modeling, blockchain and task management
-- 🌱 I’m currently learning python, grasshopper and smart contracts
-- 💞️ I’m looking to collaborate on any of the topics menyioned above
-- 📫 Reach out if you'd like to talk
+- 👋 Hi, I’m @zen_gorilla!
+- 👀 I’m interested in architecture, construction and technology.
+- 🌱 I like to use python to create applications that help me stay organizaed.
+- 💞️ I’m looking for calloborators and hoping to meet interesting people.
 
 <!---
 gavin-britto/gavin-britto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
