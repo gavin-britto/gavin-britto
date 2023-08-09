@@ -1,6 +1,6 @@
-- My name is Gavin, a.k.a. digital_rakshasa.
-- I make music, art and design, both in the real and digital worlds.
-- The tools I like to use are: procreate, sketchup, rhino3D, autocad, revit, python, html, css, javacript and many more.
+- My name is Gavin, a.k.a. digital_rakshasa
+- I make music, art and design, both in the real and digital worlds
+- The tools I like to use are: procreate, sketchup, rhino3D, autocad, revit, python, html, css, javacript and many more
 - Open to collaborating
 
 <!---
